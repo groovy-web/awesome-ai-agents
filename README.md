@@ -86,6 +86,8 @@ Libraries for giving agents the ability to use tools and APIs.
 - [Toolhouse](https://toolhouse.ai/) - Tool infrastructure for LLM applications.
 - [Arcade AI](https://github.com/ArcadeAI/arcade-ai) - Tool use infrastructure with auth and execution.
 - [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) - Extensive tool integrations for LangChain agents.
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) providing 9 SEO and Google Ads skills via MCP — connects Google Search Console, PageSpeed Insights, and Google Ads API for automated audits, keyword research, and content optimization.
+
 
 ## Memory & State
 
