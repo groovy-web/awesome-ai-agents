@@ -96,6 +96,7 @@ Solutions for agent memory, context, and state management.
 - [Letta (MemGPT)](https://github.com/letta-ai/letta) - Agents with long-term memory and self-editing capabilities.
 - [Chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go.
 - [MotherDuck](https://motherduck.com/) - Serverless analytics for agent state management.
+- [Dakera](https://github.com/Dakera-AI/dakera) - Persistent memory layer for agents: hybrid BM25 + vector retrieval, temporal reasoning, importance-weighted decay.
 
 ## RAG (Retrieval-Augmented Generation)
 
