@@ -97,6 +97,8 @@ Solutions for agent memory, context, and state management.
 - [Chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go.
 - [MotherDuck](https://motherduck.com/) - Serverless analytics for agent state management.
 
+- [Dakera](https://github.com/dakera-ai/dakera-deploy) - Persistent memory layer for agents: hybrid BM25 + vector retrieval, temporal reasoning, importance-weighted decay.
+
 ## RAG (Retrieval-Augmented Generation)
 
 Tools and frameworks for building RAG systems that power agent knowledge.
