@@ -129,6 +129,7 @@ Tools for testing, evaluating, and benchmarking AI agents.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - Framework for evaluating LLMs by UK AISI.
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing framework for ML models and LLMs.
 - **[ai-testing-mcp](https://github.com/groovy-web/ai-testing-mcp)** - MCP server for AI testing and QA. By Groovy Web.
+- **[ClawBench](https://github.com/reacher-z/ClawBench)** — Live-website browser-agent benchmark. 283 everyday tasks across 163 platforms; two-stage scoring (HTTP-request interception + LLM judge on payload). Live leaderboard at [claw-bench.com](https://claw-bench.com).
 
 ## Monitoring & Observability
 
