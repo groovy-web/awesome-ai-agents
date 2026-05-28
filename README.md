@@ -128,6 +128,7 @@ Tools for testing, evaluating, and benchmarking AI agents.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Test and evaluate LLM outputs.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - Framework for evaluating LLMs by UK AISI.
 - [Giskard](https://github.com/Giskard-AI/giskard) - Testing framework for ML models and LLMs.
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection).
 - **[ai-testing-mcp](https://github.com/groovy-web/ai-testing-mcp)** - MCP server for AI testing and QA. By Groovy Web.
 
 ## Monitoring & Observability
@@ -140,6 +141,8 @@ Track agent performance, costs, and behavior in production.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) - ML observability for LLMs, agents, and RAG.
 - [Weights & Biases](https://wandb.ai/) - ML experiment tracking with LLM support.
 - [Braintrust](https://www.braintrust.dev/) - Evaluation, logging, and prompt management.
+- [traceAI](https://github.com/future-agi/traceAI) - OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations.
+- [Future AGI](https://github.com/future-agi/future-agi) - Self-hostable end-to-end agent engineering platform with tracing, evals, guardrails, and gateway.
 
 ## Deployment
 
