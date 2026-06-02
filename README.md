@@ -33,6 +33,7 @@ Multi-agent and single-agent frameworks for building AI systems.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing AI agents.
 - [AutoGen](https://github.com/microsoft/autogen) - Multi-agent conversation framework by Microsoft.
 - [Swarm](https://github.com/openai/swarm) - Lightweight multi-agent orchestration by OpenAI.
+- [LightAgent](https://github.com/wanxingai/LightAgent) - Lightweight Python agent framework with memory, MCP/SSE integration, reusable Skills, Tree-of-Thought planning, streaming, and LightSwarm multi-agent collaboration.
 - [Camel](https://github.com/camel-ai/camel) - Communicative agents for large-scale exploration.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework that mimics a software company.
 - [Agency Swarm](https://github.com/VRSEN/agency-swarm) - Agent orchestration framework with customizable agent roles.
