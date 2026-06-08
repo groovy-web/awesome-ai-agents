@@ -85,6 +85,7 @@ Libraries for giving agents the ability to use tools and APIs.
 - [Composio](https://github.com/ComposioHQ/composio) - Integration platform for AI agents with 150+ tools.
 - [Toolhouse](https://toolhouse.ai/) - Tool infrastructure for LLM applications.
 - [Arcade AI](https://github.com/ArcadeAI/arcade-ai) - Tool use infrastructure with auth and execution.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana on-chain trust scoring for AI agents. Verify wallet reputation before x402 micropayments. Remote MCP: `https://intel.twzrd.xyz/mcp`
 - [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) - Extensive tool integrations for LangChain agents.
 
 ## Memory & State
