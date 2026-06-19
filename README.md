@@ -81,11 +81,12 @@ Hosted platforms for building, deploying, and managing AI agents.
 
 Libraries for giving agents the ability to use tools and APIs.
 
-- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - Open standard for connecting LLMs to tools and data.
-- [Composio](https://github.com/ComposioHQ/composio) - Integration platform for AI agents with 150+ tools.
-- [Toolhouse](https://toolhouse.ai/) - Tool infrastructure for LLM applications.
 - [Arcade AI](https://github.com/ArcadeAI/arcade-ai) - Tool use infrastructure with auth and execution.
+- [Composio](https://github.com/ComposioHQ/composio) - Integration platform for AI agents with 150+ tools.
 - [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) - Extensive tool integrations for LangChain agents.
+- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - Open standard for connecting LLMs to tools and data.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [Toolhouse](https://toolhouse.ai/) - Tool infrastructure for LLM applications.
 
 ## Memory & State
 
