@@ -91,11 +91,12 @@ Libraries for giving agents the ability to use tools and APIs.
 
 Solutions for agent memory, context, and state management.
 
-- [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI agents and assistants.
-- [Zep](https://github.com/getzep/zep) - Long-term memory for AI assistants and agents.
-- [Letta (MemGPT)](https://github.com/letta-ai/letta) - Agents with long-term memory and self-editing capabilities.
 - [Chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go.
+- [Letta (MemGPT)](https://github.com/letta-ai/letta) - Agents with long-term memory and self-editing capabilities.
+- [Mem0](https://github.com/mem0ai/mem0) - Memory layer for AI agents and assistants.
 - [MotherDuck](https://motherduck.com/) - Serverless analytics for agent state management.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle layer for AI agents with Rust CLI, SQLite/FTS recall, audit, consolidation, and forgetting.
+- [Zep](https://github.com/getzep/zep) - Long-term memory for AI assistants and agents.
 
 ## RAG (Retrieval-Augmented Generation)
 
