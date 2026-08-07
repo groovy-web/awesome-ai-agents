@@ -69,13 +69,14 @@ Tools for managing agent workflows and pipelines.
 
 Hosted platforms for building, deploying, and managing AI agents.
 
-- [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview) - Build AI assistants with tools, knowledge, and actions.
-- [Claude MCP](https://modelcontextprotocol.io/) - Model Context Protocol for connecting AI to tools and data.
-- [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder) - Build conversational AI agents on Google Cloud.
 - [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/) - Build and deploy AI agents on AWS.
-- [Relevance AI](https://relevanceai.com/) - Platform for building AI agents and workflows.
-- [Voiceflow](https://www.voiceflow.com/) - Build and deploy conversational AI agents.
 - [Botpress](https://github.com/botpress/botpress) - Open-source platform for building AI agents and chatbots.
+- [Claude MCP](https://modelcontextprotocol.io/) - Model Context Protocol for connecting AI to tools and data.
+- [OpenAI Assistants API](https://platform.openai.com/docs/assistants/overview) - Build AI assistants with tools, knowledge, and actions.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Local-first desktop platform whose Commander coordinates specialist agents for complex work.
+- [Relevance AI](https://relevanceai.com/) - Platform for building AI agents and workflows.
+- [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder) - Build conversational AI agents on Google Cloud.
+- [Voiceflow](https://www.voiceflow.com/) - Build and deploy conversational AI agents.
 
 ## Tool Use & Function Calling
 
