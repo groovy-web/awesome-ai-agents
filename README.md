@@ -123,6 +123,7 @@ Tools and frameworks for building RAG systems that power agent knowledge.
 
 Tools for testing, evaluating, and benchmarking AI agents.
 
+- [Agent QA](https://github.com/vostride/agent-qa) - AI QA agent for natural-language black-box web/mobile tests with persistent memory and self-healing flows.
 - [DeepEval](https://github.com/confident-ai/deepeval) - LLM evaluation framework for RAG and agents.
 - [RAGAS](https://github.com/explodinggradients/ragas) - Evaluation framework for RAG pipelines.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Test and evaluate LLM outputs.
