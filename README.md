@@ -74,6 +74,7 @@ Hosted platforms for building, deploying, and managing AI agents.
 - [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder) - Build conversational AI agents on Google Cloud.
 - [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/) - Build and deploy AI agents on AWS.
 - [Relevance AI](https://relevanceai.com/) - Platform for building AI agents and workflows.
+- [Tale](https://tale.dev/) - Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing reports and deliverables.
 - [Voiceflow](https://www.voiceflow.com/) - Build and deploy conversational AI agents.
 - [Botpress](https://github.com/botpress/botpress) - Open-source platform for building AI agents and chatbots.
 
