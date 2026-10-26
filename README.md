@@ -81,6 +81,7 @@ Hosted platforms for building, deploying, and managing AI agents.
 
 Libraries for giving agents the ability to use tools and APIs.
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local CLI and stdio MCP payment tools with owner-set limits and command-specific foreground approval for AI-agent workflows on macOS Apple Silicon.
 - [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - Open standard for connecting LLMs to tools and data.
 - [Composio](https://github.com/ComposioHQ/composio) - Integration platform for AI agents with 150+ tools.
 - [Toolhouse](https://toolhouse.ai/) - Tool infrastructure for LLM applications.
